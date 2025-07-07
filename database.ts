@@ -73,6 +73,7 @@ export class DatabaseAccessControl {
 
     this.wakeUp();
   }
+  //
 
   private wakeUp() {
     if (
